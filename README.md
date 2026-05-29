@@ -31,8 +31,7 @@ Users should be able to:
 ### Links
 
 - **Live Site:** [Add your live URL here](#)
-- **Frontend Repo:** [Add your frontend repo URL here](#)
-- **Backend Repo:** [Add your backend repo URL here](#)
+- **Solution URL:** [Add your frontend repo URL here](#)
 
 ---
 
@@ -109,7 +108,7 @@ app.use(cors({
 ## Author
 
 - **Name** — [Shubhangi Mishra](#)
-- **GitHub** — [@your-username](https://github.com/ShubhangiMishra215)
+- **GitHub** — (https://github.com/ShubhangiMishra215)
 
 ---
 
