@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- **Live Site:** [Add your live URL here](#)
-- **Solution URL:** [Add your frontend repo URL here](#)
+- **Live Site:** (#https://restaurant-reservation-app-sepia.vercel.app/)
+- **Solution URL:** (#https://github.com/ShubhangiMishra215/restaurant-reservation-app.git)
 
 ---
 
