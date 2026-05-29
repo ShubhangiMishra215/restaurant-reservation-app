@@ -13,7 +13,7 @@ Restaurant Reservation App is a fullstack web application that allows customers 
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 ---
 
@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- **Live Site:** (#https://restaurant-reservation-app-sepia.vercel.app/)
-- **Solution URL:** (#https://github.com/ShubhangiMishra215/restaurant-reservation-app.git)
+- **Live Site:** (https://restaurant-reservation-app-sepia.vercel.app/)
+- **Solution URL:** (https://github.com/ShubhangiMishra215/restaurant-reservation-app.git)
 
 ---
 
